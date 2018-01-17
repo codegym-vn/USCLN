@@ -1,0 +1,7 @@
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\bin\Debug\USCLN.exe.config
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\bin\Debug\USCLN.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\bin\Debug\USCLN.pdb
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\obj\Debug\USCLN.csprojResolveAssemblyReference.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\obj\Debug\USCLN.csproj.CoreCompileInputs.cache
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\obj\Debug\USCLN.exe
+C:\Users\thaotm\Documents\DATA\01. Projects\CODEGYMS\Examples\Workspace\USCLN\USCLN\obj\Debug\USCLN.pdb
